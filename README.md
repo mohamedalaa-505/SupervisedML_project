@@ -64,5 +64,5 @@ The project addresses the following tasks:
 4. Run Streamlit app: `streamlit run streamlitapp.py`
 
 ## Contributors 
-[Habiba Furany](https://github.com/habiba-furany)
-[Mohamed Alaa](https://github.com/mohamedalaa-505)
+-[Habiba Furany](https://github.com/habiba-furany)
+-[Mohamed Alaa](https://github.com/mohamedalaa-505)
