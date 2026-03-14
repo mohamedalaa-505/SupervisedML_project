@@ -1,3 +1,9 @@
+---
+noteId: "60b277001fe011f19c88495a5fd3c2ba"
+tags: []
+
+---
+
 # CharityML: Income Prediction Project
 
 ## Project Description
@@ -54,7 +60,9 @@ The project addresses the following tasks:
 - Best model: **Tuned XGBoost**  
 - Performance metrics:
   - Cross-validated Accuracy & F1
-  - Test Accuracy & F1
+  - Test Accuracy 
+  - precision , Recall & F1 score
+  - ROC_AUC
 - Top features identified and analyzed.
 
 ## How to Run
